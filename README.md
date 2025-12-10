@@ -15,7 +15,7 @@ Assim que o usuário realiza o login, ele é encaminhado automaticamente para o 
 Esta é a página destinada ao cadastro de novos alunos da instituição. O formulário reúne uma série de dados obrigatórios, como: nome completo do estudante, data de nascimento, identificação do responsável, tipo de vínculo do responsável (como mãe, pai, tio ou avô), além do curso em que o aluno deseja ingressar.
 Também são solicitadas as informações de endereço, incluindo rua, bairro, CEP, cidade e número da residência. A página conta ainda com uma validação interna que impede o envio do formulário caso algum campo obrigatório não tenha sido preenchido. Após o cadastro ser concluído corretamente, todas as informações do aluno são registradas automaticamente em um painel de estatísticas e adicionadas à tabela da seção “Alunos”, onde ficam disponíveis os dados essenciais de cada estudante.
 
-## Painel de Estatísticas
+## Painel de Consultas
 <img width="1898" height="937" alt="1000154843" src="https://github.com/user-attachments/assets/84354d95-2df4-4be1-b6f2-80ff4674c50d" />
 
 Este é o painel de estatísticas do sistema. Ele apresenta diversos indicadores e gráficos baseados nos dados dos alunos cadastrados. As informações exibidas incluem:
